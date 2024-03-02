@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\bin\Debug\net8.0\examen Parcial.exe
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\bin\Debug\net8.0\examen Parcial.deps.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\bin\Debug\net8.0\examen Parcial.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\bin\Debug\net8.0\examen Parcial.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\bin\Debug\net8.0\examen Parcial.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\refint\examen Parcial.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\examen Parcial.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\examen Parcial\obj\Debug\net8.0\ref\examen Parcial.dll
